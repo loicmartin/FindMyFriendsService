@@ -1,0 +1,14 @@
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsLauncher.exe.config
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsLauncher.exe
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsLauncher.pdb
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsService.dll
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsCommunication.dll
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsData.dll
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\EntityFramework.dll
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsService.pdb
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsCommunication.pdb
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\FindMyFriendsData.pdb
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\bin\Debug\EntityFramework.xml
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\obj\Debug\FindMyFriendsLauncher.csprojResolveAssemblyReference.cache
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\obj\Debug\FindMyFriendsLauncher.exe
+C:\Dev\FindMyFriendsService\FindMyFriendsLauncher\obj\Debug\FindMyFriendsLauncher.pdb

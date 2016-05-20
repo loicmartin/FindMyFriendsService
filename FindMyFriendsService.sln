@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyFriendsService", "FindMyFriendsService\FindMyFriendsService.csproj", "{56C101A5-99D0-4F6A-BE66-CD0AFA8FB815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyFriendsData", "FindMyFriendsData\FindMyFriendsData.csproj", "{A0DF4C1D-7290-4833-AABA-EF8769EB932A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyFriendsCommunication", "FindMyFriendsCommunication\FindMyFriendsCommunication.csproj", "{4426D354-3501-47CF-8607-FC0227B19693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyFriendsServiceLauncher", "FindMyFriendsServiceLauncher\FindMyFriendsServiceLauncher.csproj", "{04DA9DF1-0F25-451F-88F4-C0E4470DAD2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMyFriendsLauncher", "FindMyFriendsLauncher\FindMyFriendsLauncher.csproj", "{52B811DE-5471-4E63-8E54-5B6E45736F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56C101A5-99D0-4F6A-BE66-CD0AFA8FB815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C101A5-99D0-4F6A-BE66-CD0AFA8FB815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C101A5-99D0-4F6A-BE66-CD0AFA8FB815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C101A5-99D0-4F6A-BE66-CD0AFA8FB815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DF4C1D-7290-4833-AABA-EF8769EB932A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DF4C1D-7290-4833-AABA-EF8769EB932A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DF4C1D-7290-4833-AABA-EF8769EB932A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DF4C1D-7290-4833-AABA-EF8769EB932A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4426D354-3501-47CF-8607-FC0227B19693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4426D354-3501-47CF-8607-FC0227B19693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4426D354-3501-47CF-8607-FC0227B19693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4426D354-3501-47CF-8607-FC0227B19693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DA9DF1-0F25-451F-88F4-C0E4470DAD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DA9DF1-0F25-451F-88F4-C0E4470DAD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DA9DF1-0F25-451F-88F4-C0E4470DAD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DA9DF1-0F25-451F-88F4-C0E4470DAD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B811DE-5471-4E63-8E54-5B6E45736F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B811DE-5471-4E63-8E54-5B6E45736F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B811DE-5471-4E63-8E54-5B6E45736F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B811DE-5471-4E63-8E54-5B6E45736F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
